@@ -1,0 +1,2 @@
+To change the output directory go to the train.py, val.py and predict.py in yolov5 and change --name
+to this directory
